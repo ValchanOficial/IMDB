@@ -1,5 +1,7 @@
 # Site estático: 🎥 IMDB  
-  
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c58b0180-bc04-4b6d-9764-1c8dcef4d3d5/deploy-status)](https://app.netlify.com/sites/valchan-imdb/deploys)
+
 ## Objetivo: 
 O desafio é desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas **HTML5** e **CSS3**.
 
@@ -32,15 +34,6 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 > Após a instalação, você deverá navegar até o diretório contendo seus arquivos HTML e executar o comando:
 >
 > 👉 **`live-server ./[nome-da-pasta ou arquivo html]`**
-
-## Dicas:
-* Utilize as tags semânticas do HTML5 onde julgar necessário;
-* Você pode fazer download do [Normalize CSS]* (https://necolas.github.io/normalize.css/) e utilizá-lo no projeto para **"normalizar/resetar"** os estilos padrão dos navegadores;
-* 👁️ Inspecione os elementos do preview do [IMDB Codenation](https://aceleradev-react.netlify.com/aula-01/public/) e descubra como alguns efeitos foram executados;
-* ⚠️ [Fonte Utilizada - Montserrat](https://fonts.google.com/specimen/Montserrat);
-* ⚠️ [Ícones utilizados - Fontawesome](https://www.bootstrapcdn.com/fontawesome/);
-* 📜 [Guia HTML5](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf);
-* 📜 [Guia CSS3](https://www.w3c.br/pub/Materiais/PublicacoesW3C/guia-css-w3cbr.pdf).
 
 ## Layout:
 
